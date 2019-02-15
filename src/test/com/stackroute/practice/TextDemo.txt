@@ -1,0 +1,2 @@
+convert the content in upper case
+and print the same in console along with the length of the file.
